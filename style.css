@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+.header{
+    width: 1440px;
+    height: 1024px;
+    border: 2px solid black;
+    margin: 0 auto;
+    background-image: url(https://s3-alpha-sig.figma.com/img/026b/441a/88dfc0194633755f033f7f553dfded55?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kit4TE~sYUlmX0b0HeSjHSBWgXJiN72W6PCGU7grSklaxcwgJcRCx5PDSVkc0BoJEx0GFaS870irNcea9bUQ3~dFDJIktPtQSw8XrGmsmpV2rCg0iVrh~ESIHkDhDu-TvE1WdI9ZlbeTcCRULdwniCLXexD-x9DdILup~WMPoc9Pb~yDEnSfWmshhde7SKiJofxqb4PtlLKgJ1xyH-tgRGBmIvNZNXxHhLG~8G04Hwrjg6TUVMqPpSLlFktGWDjUy773OV0aKsALgbhebgMkSiFe4XOyFLibv4Gwf9f1vjW964etQc6zR9t9MlxmAtEp3OhqRgvaVEM3mukHwDszPA__);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;
+    /* background: linear-gradient(90deg, #F5C22C 0%, #64AA58 28%, #FAFF00 58.5%, #D92E23 100%); */
+}
+.nav{
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+}
+.nav ul{
+    border: 2px solid black;
+    display: flex;
+    gap: 78px;
+    font-family: "Nosifer", sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 28.55px;
+    color: yellow;
+}
+.jojo{
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 78px;
+}
+.kok{
+    border: 2px solid #F1A900;
+    width: 235px;
+    height: 73px;
+    top: 475px;
+    margin-left: 453px;
+    background-color: #F1A900;
+    margin: 400px;
+}
+.lol{
+    border: 2px solid #F1A900;
+    width: 235px;
+    height: 73px;
+    top: 475px;
+    margin-left: 453px;
+    background-color: #F1A900;
+    margin-left: 840px;
+    
+}
+.uyuy{
+    border: 2px solid #222222;
+    background-color: #222222;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+.lox{
+    border: 2px solid red;
+    background-color: #F1A900;
+    width: 500px;
+    height: 100px;
+    margin: 500px;
+    margin-right: 300px;
+    text-align: center;
+    align-content: center;
+    color: white;
+    font-family: "Inter" sans-serif;
+}
